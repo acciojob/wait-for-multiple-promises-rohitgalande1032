@@ -1,7 +1,7 @@
 
 let output = document.getElementById("output");
 output.innerHTML = `
-  <tr>
+  <tr id="loading">
     <td colspan="2">Loading...</td>
   </tr> 
 `;
